@@ -2,9 +2,9 @@
 
 Repositório respnsável pelo conteúdo das aulas ao vivo da Trybe - Bloco 3 - Introdução à HTML e CSS.
 
-No decorrer das aulas criaremos um clone dendo como referência o [beTrybe](https://betrybe-0.webflow.io/).
+No decorrer das aulas criaremos um clone tendo como referência o [beTrybe](https://betrybe-0.webflow.io/).
 
-## Content
+## Conteúdo
 
 1. Introdução - HTML & CSS.
 1. HTML & CSS - Estruturas de página.
