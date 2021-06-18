@@ -1,0 +1,67 @@
+body
+{
+    font-family:'Montserrat', sans-serif;
+    font-size:16px;
+}
+
+#main-title 
+{
+    color: #0A7E51;
+    font-size: 45px;
+    letter-spacing: -1px;
+    line-height: 55px;
+}
+
+
+.color-trybe
+{
+    color:#11A36A;
+}
+
+.session-heading
+{
+    font-size:28px;
+    font-weight:600;
+    line-height:42px;
+    text-align:center;
+}
+
+.picture
+{
+    border-radius:50%;
+}
+
+.font-color-primary
+{
+    color:#475550
+}
+
+h4
+{
+    font-weight:600;
+}
+
+.testimonial-name
+{
+    font-size:14px;
+    font-weight:400;
+    line-height:20px;
+}
+
+.student-testimonial-name
+{
+    font-size:14px;
+    font-weight:600;
+    line-height:20px;
+}
+
+.button
+{
+    background-color:#11A36A;
+    border-radius:4px;
+    color:#FFF;
+    font-weight:700;
+    line-height:20px;
+    padding:15px 30px;
+    text-decoration:none;
+}
