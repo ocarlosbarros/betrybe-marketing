@@ -27,9 +27,22 @@ body
     color:#475550
 }
 
+h4
+{
+    font-weight:600;
+}
+
 .testimonial-name
 {
     font-size:14px;
     line-height:20px;
     font-weight:400;
 }
+
+.student-testimonial-name
+{
+    font-size:14px;
+    line-height:20px;
+    font-weight:600;
+}
+
